@@ -1,6 +1,7 @@
 # Important Note
 
 This repo is also used for students to practice git pull requests.
+~James
 
 # CS3560 - Example Project
 
